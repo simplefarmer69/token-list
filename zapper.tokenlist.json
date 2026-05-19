@@ -1,5 +1,8 @@
 {
-  "keywords": ["zapper", "defi"],
+  "keywords": [
+    "zapper",
+    "defi"
+  ],
   "logoURI": "https://raw.githubusercontent.com/Zapper-fi/token-list/master/assets/zapper.png",
   "name": "Zapper Token List",
   "timestamp": "2020-10-20T16:48:35.557Z",
@@ -1651,7 +1654,27 @@
       "logoURI": "https://raw.githubusercontent.com/Zapper-fi/token-list/master/assets/ZZZ-icon.png",
       "name": "zzz.finance",
       "symbol": "ZZZ"
+    },
+    {
+      "address": "0xbc920c7Fa25D3Cd5606394aa4C6751d71DCb7930",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xbc920c7Fa25D3Cd5606394aa4C6751d71DCb7930/logo.png",
+      "name": "K9",
+      "symbol": "K9"
+    },
+    {
+      "address": "0x884649f1fE3Bf3Ae0Bd720Eaf660cB561dcE39ef",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x884649f1fE3Bf3Ae0Bd720Eaf660cB561dcE39ef/logo.png",
+      "name": "PUPCUP",
+      "symbol": "PUPCUP"
     }
   ],
-  "version": { "major": 1, "minor": 0, "patch": 0 }
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
 }
